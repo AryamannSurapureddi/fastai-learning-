@@ -2,7 +2,9 @@
 
 ## installation and basic knowledge:
 !pip install -Uqq fastai to always run the latest version of the fastapi packages 
+
 fastapi packages always start with fast____(eg fastdownload)
+
 to obtain new models refer to "timm.fast.ai"
 
 ## Main training block:
